@@ -1,0 +1,66 @@
+/* Modal CSS */
+
+.modalSmartAgenda {
+  visibility: hidden;
+  opacity: 0;
+  position: fixed;
+  top: 0; 
+  right: 0;
+  bottom: 0; 
+  left: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background: rgba(0, 0, 0, .8);
+  transition: all .4s;
+  z-index: 100000000001;
+  height: 100%;
+}
+
+.modalSmartAgenda:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.modalSmartAgenda_content {
+  border-radius: 12px;
+  position: absolute;
+  top: 2%;
+  width: 92%;
+  max-width: 1200px;
+  height: auto;
+  max-height: 94%;
+  background: white;
+  padding: 0.5em;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.modalSmartAgenda_content iframe{
+	border-radius: 12px;
+}
+
+.modalSmartAgenda_content #navbar-smart .navbar-right{
+	margin-right:0 !important;
+}
+
+.modalSmartAgenda_close {
+  	position: absolute;
+	top: 3px;
+	right: 3px;
+	color: #fff;
+	font-size: 21px;
+	text-decoration: none;
+	background: #000;
+	border-radius: 8px;
+	display: block;
+	width: 32px;
+	height: 32px;
+	line-height: 27px;
+	text-align: center;
+}
+
+.modalSmartAgenda_close:hover{
+	background: grey;
+}
+

@@ -1,0 +1,44 @@
+# Copyright (C) 2009 Smart Agenda
+# This file is distributed under the same license as the Plugins - Smart Agenda &#8211; Prise de rendez-vous en ligne.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Taxonomy 3.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-taxonomy\n"
+"POT-Creation-Date: 2019-05-07 12:40+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-05-07 13:11+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#. Author URI of the plugin
+msgid "https://www.smartagenda.fr"
+msgstr "https://www.smartagenda.fr"
+
+#. Author of the plugin
+msgid "Smart Agenda"
+msgstr "Smart Agenda"
+
+#. Description of the plugin
+msgid ""
+"Agenda et Prise de rendez-vous par internet. Insérez facilement la prise de "
+"rendez-vous sur votre site."
+msgstr ""
+"Agenda et Prise de rendez-vous par internet. Insérez facilement la prise de "
+"rendez-vous sur votre site."
+
+#. Plugin URI of the plugin
+msgid ""
+"https://www.smartagenda.fr/plugin-wordpress-rendez-vous-en-ligne-smart-"
+"agenda.html"
+msgstr ""
+"https://www.smartagenda.fr/plugin-wordpress-rendez-vous-en-ligne-smart-"
+"agenda.html"
+
+#. Plugin Name of the plugin
+msgid "Smart Agenda - Prise de rendez-vous en ligne"
+msgstr "Smart Agenda - Prise de rendez-vous en ligne"
